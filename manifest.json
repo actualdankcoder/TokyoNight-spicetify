@@ -1,0 +1,9 @@
+{
+    "name": "TokyoNight",
+    "description": "TokyoNight is a spicetify version of the popular VSCode extension",
+    "preview": "https://i.imgur.com/R61dfXx.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "include": ["https://nyri4.github.io/Comfy-spicetify/Comfy.js"]
+}

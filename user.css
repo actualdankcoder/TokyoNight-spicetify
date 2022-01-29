@@ -1,0 +1,10 @@
+@import url('https://nyri4.github.io/Comfy-spicetify/app.css');
+.main-home-homeHeader, .main-topBar-background, .main-contextMenu-menu {
+    opacity: 1 !important;
+    background-color: var(--spice-sidebar) !important;
+}
+
+.progress-bar {
+    --fg-color: #1ed760 !important;
+    --is-active-fg-color: #2dfa75 !important;
+}
