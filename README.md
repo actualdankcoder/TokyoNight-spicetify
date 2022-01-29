@@ -1,4 +1,4 @@
-# TokyoNight
+![logo](https://i.imgur.com/MxHfXlC.png)
 
 **THIS IS A TWEAKED RICE OF [Comfy-Spicetify](https://github.com/NYRI4/Comfy-spicetify)** 
 
